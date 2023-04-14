@@ -1,0 +1,5 @@
+package com.ms.productservice.dto;
+
+public class ProductRequest {
+
+}

@@ -1,0 +1,5 @@
+package com.ms.inventoryservice.model;
+
+public class Inventory {
+
+}

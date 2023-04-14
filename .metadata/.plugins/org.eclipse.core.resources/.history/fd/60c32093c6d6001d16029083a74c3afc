@@ -1,0 +1,5 @@
+package com.ms.productservice.service;
+
+public class ProductService {
+
+}

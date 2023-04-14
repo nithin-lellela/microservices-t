@@ -1,0 +1,5 @@
+package com.ms.inventoryservice.controller;
+
+public class InventoryController {
+
+}

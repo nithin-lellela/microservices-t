@@ -1,0 +1,5 @@
+package com.ms.productservice.controller;
+
+public class ProductController {
+
+}

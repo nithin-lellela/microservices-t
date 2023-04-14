@@ -1,0 +1,5 @@
+package com.ms.orderservice.repository;
+
+public interface OrderRepository {
+
+}

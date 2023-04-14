@@ -1,0 +1,5 @@
+package com.ms.orderservice.dto;
+
+public class OrderLineItemsDto {
+
+}

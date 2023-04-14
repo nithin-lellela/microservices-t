@@ -1,0 +1,5 @@
+package com.ms.orderservice.model;
+
+public class OrderLineItems {
+
+}

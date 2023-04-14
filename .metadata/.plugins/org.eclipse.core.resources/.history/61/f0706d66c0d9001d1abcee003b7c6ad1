@@ -1,0 +1,5 @@
+package com.ms.orderservice.config;
+
+public class WebClientConfig {
+
+}

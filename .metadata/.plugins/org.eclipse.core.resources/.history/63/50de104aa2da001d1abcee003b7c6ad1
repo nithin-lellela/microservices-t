@@ -1,0 +1,5 @@
+package com.ms.discoveryserver.config;
+
+public class SecurityConfig {
+
+}

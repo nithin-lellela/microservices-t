@@ -1,0 +1,5 @@
+package com.ms.inventoryservice.dto;
+
+public class InventoryResponse {
+
+}
